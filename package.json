@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-rich-presence": "^0.0.8"
+  },
+  "name": "discordrpc",
+  "description": "![Alt](src/Assets/Demo.jpg)",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm start" : "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyrokx/Easy-DiscordRPC.git"
+  },
+  "author": "Kyrokx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kyrokx/Easy-DiscordRPC/issues"
+  },
+  "homepage": "https://github.com/Kyrokx/Easy-DiscordRPC#readme"
+}
