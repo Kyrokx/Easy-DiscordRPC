@@ -6,7 +6,7 @@
 **Modules requis :**
 
 - chalk
-- discord-rpc
+- discord-rpc ( [Doc](https://www.npmjs.com/package/discord-rpc) )
 
 Modifier le fichier `src/Utils/config.sample.js` en `config.js` et remplicez les différents champs.
 
@@ -26,4 +26,4 @@ Mon serveur [discord](https://discord.gg/g7UMuJPmVp) en cas de probleme
 
 ### Enjoy
 
-##🎉 Amusez-vous !
+🎉 Amusez-vous !
